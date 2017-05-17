@@ -7,7 +7,7 @@ BoostrapNotify is a wrapper for mouse0270's bootstrap-notify library which can b
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'bootstrap_notify'
+gem 'bootstrap_notify_gem'
 ```
 
 And then execute:
@@ -16,7 +16,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install bootstrap_notify
+    $ gem install bootstrap_notify_gem
 
 ## Usage
 
@@ -33,7 +33,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/jkras/bootstrap_notify. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/jkrasx/bootstrap_notify_gem. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 
 ## License

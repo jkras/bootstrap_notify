@@ -1,11 +1,11 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'bootstrap_notify/version'
+require 'bootstrap_notify_gem/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "bootstrap_notify"
-  spec.version       = BootstrapNotify::VERSION
+  spec.name          = "bootstrap_notify_gem"
+  spec.version       = BootstrapNotifyGem::VERSION
   spec.authors       = ["Jesse Krasnostein"]
 
   spec.summary       = %q{ A gem wrapper for Bootstrap Notify https://github.com/mouse0270/bootstrap-notify.}
